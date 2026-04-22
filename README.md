@@ -64,7 +64,7 @@ blood-test-analysis/
 ### Backend
 
 ```bash
-cd /Users/gauravkumar/Downloads/blood_Test_report_AI-main/backend
+cd /Users/anjalikumari/Downloads/blood_Test_report_AI-main/backend
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
