@@ -71,7 +71,7 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 
-Edit `/Users/gauravkumar/Downloads/blood_Test_report_AI-main/backend/.env`:
+Edit `/Users/anjalikumari/Downloads/blood_Test_report_AI-main/backend/.env`:
 
 ```env
 GEMINI_API_KEY=your_real_gemini_api_key
@@ -92,7 +92,7 @@ uvicorn main:app --reload --host 0.0.0.0 --port 8000
 ### Frontend
 
 ```bash
-cd /Users/gauravkumar/Downloads/blood_Test_report_AI-main/frontend
+cd /Users/anjalikumari/Downloads/blood_Test_report_AI-main/frontend
 npm install
 npm run dev -- --host 0.0.0.0 --port 5173
 ```
